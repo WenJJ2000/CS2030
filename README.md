@@ -1,5 +1,5 @@
 # CS2030
-CS2030 Project, Creating a Restaurant object that optimises the time when a customer is served
+CS2030 Project, Discrete Event simulator that models a shop
 
 How to run :  java Main.java < input
 
